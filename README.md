@@ -87,8 +87,8 @@ Define como a compra foi quitada.
 ---
 
 ## 🧩 Diagrama ER (Resumo Visual)
-[Cliente]───<Venda>───[ItemVenda]───[Produto] │ │ │ 
-└────────────<Pagamento>────────────┘
+
+![Screenshot_12](https://github.com/user-attachments/assets/cc72b468-c794-43e0-8cd6-448f4703a632)
 
 
 ---
