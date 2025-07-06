@@ -90,6 +90,9 @@ Define como a compra foi quitada.
 [Cliente]───<Venda>───[ItemVenda]───[Produto] │ │ │ 
 └────────────<Pagamento>────────────┘
 
+
+---
+
 ![18](https://github.com/user-attachments/assets/0a634dc9-10e8-4f70-aaf4-395cf364e3d0)
 
 ![19](https://github.com/user-attachments/assets/278e31d4-fe00-4448-8ffe-7a8d46ebb846)
