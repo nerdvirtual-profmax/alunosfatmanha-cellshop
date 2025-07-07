@@ -1,4 +1,4 @@
-# 📊 Atividade — Relacionamento de Entidades no Diagrama EER | Projeto DB CellShop
+# 📊 Atividade — Relacionamento de Entidades no Diagrama EER | Projeto DB CellShop.
 
 ## 🎯 Objetivo da Atividade
 
