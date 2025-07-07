@@ -22,9 +22,8 @@ As tabelas **já estão criadas** com seus respectivos campos e chaves primária
 
 ### 1. Criar Diagrama EER no MySQL Workbench
 
-- Vá em **File > New Model**
-- No menu lateral, clique em **Add Diagram**
-- Use **“Add Table”** para importar ou representar as tabelas existentes
+- Vá em **File > Open Model**
+- No menu lateral, clique em **acesse seu diagrama**
 
 ### 2. Criar os Relacionamentos entre as tabelas
 
